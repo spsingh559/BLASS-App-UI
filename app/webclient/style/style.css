@@ -1,0 +1,137 @@
+.background{
+  /* background-image: url("../images/adventure-air-aircraft-36487.jpg"); */
+  background-color: #F5F5F5 ;
+  
+  height: 100%;
+
+ overflow: hidden;
+ background-repeat: repeat;
+font-size:16.5px;
+min-height:622px;
+  /*background-color: GHOSTWHITE;*/
+  /*opacity:0.5;*/
+
+}
+.backgroundLogin{
+  background-image: url("../images/loginBGMain.jpg");
+  
+  height: 100%;
+ overflow: hidden;
+ background-repeat: repeat;
+ 
+font-size:16.5px;
+min-height:660px;
+}
+
+.apiBackground{
+  background-color: #EDEDF3;
+  height: 50%;
+}
+
+.newTrade_textarea {
+  width: 100%;
+  height: 227px;
+  border-radius: 8px;
+  background-color: #ffffff ;
+  border: solid 1px #d5d5d5 ;
+  resize: none;
+  margin-top: 36px;
+ }
+ .api_textarea{
+  width: 50%;
+  height: 227px;
+  border-radius: 8px;
+  background-color: #ffffff ;
+  border: solid 1px #d5d5d5 ;
+  resize: none;
+  margin-top: 36px;
+ }
+
+ .api_textareaText{
+  width: 100%;
+  height: 227px;
+  border-radius: 8px;
+  background-color: #ffffff ;
+  border: solid 1px #d5d5d5 ;
+  resize: none;
+ }
+
+
+
+.landingBackground{
+  background-image: url("../images/landingPage.jpg");
+  position: relative;
+  height: 800px;
+ overflow: hidden;
+ background-repeat: repeat;
+font-size:17px;
+}
+.reportBackGround{
+  background-image: url("../images/Report.jpg");
+  position: relative;
+  height: 750px;
+ overflow: hidden;
+ background-repeat: repeat;
+font-size:17px;
+}
+
+#createNetwork{
+  position: fixed;
+  right: 0; 
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
+  width: auto; 
+  height: auto;
+  z-index: -100;
+color: white ;
+font-size:17px;
+}
+
+.profile{
+  background-image: url("../images/profile6.jpg");
+  position: relative;
+  height: 530px;
+ background-repeat:no-repeat;
+ overflow: hidden;
+font-size:17px;
+}
+
+.assessment{
+  background-image: url("../images/assessment.jpg");
+  position: relative;
+  height: 900px;
+ background-repeat:repeat;
+ overflow: hidden;
+font-size:17px;
+}
+.recommendation{
+  background-image: url("../images/assessment.jpg");
+  position: relative;
+  height: 1400px;
+background-repeat: inherit;
+ overflow: hidden;
+font-size:17px;
+ }
+.networkTesting{
+  background-image: url("../images/network.jpg");
+  position: relative;
+  height: 900px;
+ background-repeat:repeat-y;
+ overflow: hidden;
+font-size:17px;
+}
+
+.networkColor h5 {
+  color: #DCDCDC
+}
+
+.backgroundPlatform{
+  background-image: url("../images/login.jpg");
+  position: relative;
+  height: 1000px;
+ overflow: hidden;
+ background-repeat: repeat;
+ color: azure;
+font-size:17px;
+ }
